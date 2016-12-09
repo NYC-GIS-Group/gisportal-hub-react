@@ -1,0 +1,21 @@
+{
+  "name": "react-webapp-portal",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "analyst165 <omcrobbie@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "bootswatch-dist": "cerulean"
+  }
+}
